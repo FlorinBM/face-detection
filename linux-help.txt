@@ -1,0 +1,19 @@
+username@hostname:path$ 
+
+pwd - print working directory
+ls - list
+cd - change directory
+	..
+	.
+	~
+	-
+echo - scrie la ecran orice
+touch - creaza fisier/update last modified time
+cat - afiseaza continutul unui fisier
+git - comunicare cu repo
+clear - sterge ecranul
+gcc - gnu c compiler
+g++
+
+
+g++ fisier_sursa.cpp -o nume_output -Wall
